@@ -6,3 +6,5 @@ A mobile application created using App.js to send emails. It's functionality is 
 Additional styling and structure provided using HTML.
 
 The CSS and JavaScript files for App.js are provided as app.min.css and app.min.js respectively.
+
+The Zepto file provided as zepto.js.
